@@ -6,7 +6,7 @@ public class Test2
 {
   @Test
   void testMultiplication() {
-    Example1 t = new Example2();
+    Example2 t = new Example2();
     assertEquals(6, t.Multiplication(3, 2));
   }
 }
